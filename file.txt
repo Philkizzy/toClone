@@ -2,3 +2,5 @@ Var nombreOfBoxes = 30
 Var priceFor1 = 5
 
 Var priceTotal = nombreOfBoxes * priceFor1
+
+Console.log(priceTotal);
